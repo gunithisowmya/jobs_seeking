@@ -34,7 +34,7 @@ const HeroSection = () => {
         <div className="container">
           <div className="title">
             <h1>Find a job that suits</h1>
-            <h1>your interests and skills</h1>
+            <h1>your interests and skills...</h1>
           </div>
           <div className="image">
             <img src="/heroS.jpg" alt="hero" />
